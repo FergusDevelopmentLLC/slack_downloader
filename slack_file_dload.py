@@ -59,7 +59,7 @@ delete_from_slack = False
 
 # pages are batches of uploads in 100 counts. Higher pages are older uploads.
 # Set this value to 4 to start. This will download/delete uploads from 4 pages back. Decrease to download/delete more recent uploads.
-currentpage = 2
+currentpage = 4
 
 #get user_id for a username from here:https://api.slack.com/methods/files.list/test
 user_id = "U7W23907P"
